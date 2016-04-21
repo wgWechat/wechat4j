@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿wechat4j
 ========
 
@@ -130,3 +131,7 @@ public class Lejian extends WechatSupport{
 
 
 
+=======
+# wechat4j
+微信公众号接口。
+>>>>>>> a4e30a5cf0a97ba1d63507f0d9f81e5a7e79b154
